@@ -3,6 +3,7 @@
 Procedural maze-like dungeon generator made using Unity 5.4.
 
 To run the executable, only Dungeon.exe and the Dungeon_Data directory are needed.
+
 To open the project in Unity, only the Assets and ProjectSettings directories are needed.
 
 # Executable
